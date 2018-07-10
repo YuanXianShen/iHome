@@ -1,0 +1,12 @@
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 229-697-858
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 229-697-858
+ERROR index.py:19 error message
+INFO _internal.py:87 127.0.0.1 - - [10/Jul/2018 19:31:21] "GET /api/v1_0/index HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/home/python/iHome/manger.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 229-697-858
